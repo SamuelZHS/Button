@@ -1,0 +1,18 @@
+.btn{
+    padding: 10px 8px;
+    width: 50px;
+    margin-left: 5px;
+    font-size: small;
+    color: rgb(252, 252, 252);
+    background: rgb(6, 189, 6);
+    border: 2px rgb(255,255,255);
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    transition: 2%;
+    margin-right: 500px;
+}
+.btn:hover{
+    background: greenyellow;
+} 
